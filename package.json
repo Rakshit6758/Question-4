@@ -1,0 +1,21 @@
+{
+  "name": "question-4",
+  "version": "1.0.0",
+  "description": "A Hello World HTTP server",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start":"node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rakshit6758/Question-4.git"
+  },
+  "keywords": [
+    "node",
+    "docker",
+    "dockerfile"
+  ],
+  "author": "rakshitkapoor",
+  "license": "ISC"
+}
