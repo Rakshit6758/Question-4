@@ -11,7 +11,7 @@ node {
         /* This builds the actual image; synonymous to
          * docker build on the command line */
 
-        docker.build("Jenkinsfile")
+        docker.build("Rakshit6758/Question-4")
     }
 
     stage('Test image') {
